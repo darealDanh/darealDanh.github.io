@@ -1,0 +1,25 @@
+I"w<h1 id="hackthebox-writeups">HackTheBox Writeups</h1>
+
+<p>I recently started trying machines on <a href="https://www.hackthebox.eu/">HackTheBox</a></p>
+
+<p>Following is the list of all the boxes that I was able to root.</p>
+
+<h2 id="index">Index</h2>
+<ul>
+  <li><a href="https://rajoul.github.io/my_write_up/Obscurity">Obscurity</a></li>
+  <li><a href="https://rajoul.github.io/my_write_up/Remote">Remote</a></li>
+  <li><a href="https://rajoul.github.io/my_write_up/Resolute">Resolute</a></li>
+  <li><a href="https://rajoul.github.io/my_write_up/Servmon">Servmon</a></li>
+  <li><a href="https://rajoul.github.io/my_write_up/Nest">Nest</a></li>
+  <li>Wall</li>
+  <li>Writeup</li>
+  <li>Swagshop</li>
+  <li>Netmon</li>
+  <li>Haystack</li>
+  <li>Openadmin</li>
+  <li>Mango</li>
+  <li>Traceback</li>
+</ul>
+
+<p><img src="https://www.hackthebox.eu/badge/image/94847" alt="Hack The Box" /></p>
+:ET
